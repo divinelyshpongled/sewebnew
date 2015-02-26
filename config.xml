@@ -3,7 +3,7 @@
     
     <name>Smart English</name>
     <description>Put English into your life, everday.</description>
-    <author email="email@smartyingyu.com" href="http://www.smartyingyu.com">AGOTH Webmaster</author>
+    <author email="email@smartyingyu.com" href="http://www.smartyingyu.com/mobile-home">AGOTH Webmaster</author>
 
     <preference name="phonegap-version" value="3.3.0" />
     <feature name="http://api.phonegap.com/1.0/device" />
@@ -47,6 +47,6 @@
     <gap:splash src="res/screen/ios/Default@2x.png" gap:platform="ios" width="680" height="960" />
     <gap:splash src="res/screen/ios/Deafult-568h-2x.png" gap:platform="ios" width="640" height="1136" />
 
-    <content src="http://www.smartyingyu.com" />
+    <content src="http://www.smartyingyu.com/mobile-home" />
     <access origin="*" subdomains="true" />
 </widget>
